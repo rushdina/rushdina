@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 -->
 
 ### 💫 About Me:
-- 💻 I enjoy building full-stack web applications and turning ideas into working software.
-- 🔄 I enjoy working across the SDLC, from requirements and development to testing, deployment, and continuous improvement.
-- ⚙️ I’m interested in frontend, backend, APIs, databases, and testing.
-- 🧩 I enjoy solving technical problems across the stack.
-- 🤖 I’m interested in learning how AI can be integrated into software applications.
+- 💻 I enjoy building responsive, mobile-first, and interactive web applications.
+- 🎨 I enjoy turning ideas and designs into functional, user-friendly digital experiences.
+- ⚙️ I enjoy working across both frontend and backend development, from building user interfaces to integrating APIs and databases.
+- 🔄 I enjoy working across the SDLC, from understanding requirements and development to testing, deployment, and continuous improvement.
+- 🧩 I enjoy solving technical problems across the stack and continuously improving the applications I build.
+- 🤖 I’m interested in exploring how AI can be integrated into software applications to create useful experiences.
 - 🌱 I’m continuously learning and growing as a software developer.
 
 
